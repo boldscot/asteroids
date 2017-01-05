@@ -1,8 +1,7 @@
-## Assignment Asteroids using OpenGl and C++
-#### author Stephen Collins
-#### student number 20061696
+# Assignment Asteroids using OpenGl and C++
+## Author Stephen Collins
 
-##### Refactoring
+### Refactoring
 
 * Collision detection
 	Point circle collision detection, collision between the ship with asteroids and powerups and between bullets and asteroids.
