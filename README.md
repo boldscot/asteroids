@@ -1,4 +1,4 @@
-# Assignment Asteroids using OpenGl and C++
+# Asteroids using OpenGl and C++
 ## Author Stephen Collins
 
 ### Refactoring
